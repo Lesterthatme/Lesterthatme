@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @Lesterthatme
 - 👀 I’m interested in back-end of Web Development
-- 🌱 I’m currently learning javascript principles
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning frameworks and API's
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: After a long time of coding, I used to play one game of Dota 2
+- ⚡ Fun fact: After a long time of coding, I am active playing DOTA 2/ Mobile Legends because I believe I should not be stressing my wholeday coding, just a balance of doing anything ;)
 
 <!---
 Lesterthatme/Lesterthatme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
