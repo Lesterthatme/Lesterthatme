@@ -10,7 +10,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 TECKSTACKS:
-![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?logo=tailwindcss&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Laravel](https://cdn.simpleicons.org/laravel)
+![Tailwind](https://cdn.simpleicons.org/tailwindcss)
+![PHP](https://cdn.simpleicons.org/php)
