@@ -13,4 +13,4 @@ TECKSTACKS:
 ![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?logo=tailwindcss&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
