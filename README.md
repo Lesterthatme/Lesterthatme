@@ -8,4 +8,9 @@
 Lesterthatme/Lesterthatme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Laravel Logo](https://laravel.com/img/logomark.min.svg)
+
+TECKSTACKS:
+![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?logo=tailwindcss&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
